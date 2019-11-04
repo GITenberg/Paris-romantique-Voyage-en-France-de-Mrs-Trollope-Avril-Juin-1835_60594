@@ -1,0 +1,40 @@
+_repo: Paris-romantique-Voyage-en-France-de-Mrs-Trollope-Avril-Juin-1835_60594
+_version: 0.0.1
+alternative_title: Paris and the Parisians in 1835. French
+contributor:
+  translator:
+    agent_name: Boulenger, Jacques
+    alias: Boulenger, Jacques Romain
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '46694'
+    url: http://www.gutenberg.org/2009/agents/46694
+    wikipedia: https://fr.wikipedia.org/wiki/Jacques_Boulenger
+creator:
+  author:
+    agent_name: Trollope, Frances Milton
+    aliases:
+    - Trollope, Mrs.
+    - Milton, Frances
+    - Trollope, Fanny
+    birthdate: 1780
+    deathdate: 1863
+    gutenberg_agent_id: '3479'
+    url: http://www.gutenberg.org/2009/agents/3479
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Trollope
+description: ''
+gutenberg_issued: '2019-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60594'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcsh 'Paris (France) -- Social life and customs -- 19th century'
+- !lcc 'DC'
+- GITenberg
+title: 'Paris romantique: Voyage en France de Mrs. Trollope (Avril-Juin 1835)'
+url: http://www.gutenberg.org/ebooks/60594
