@@ -1,5 +1,5 @@
 _repo: Paris-romantique-Voyage-en-France-de-Mrs-Trollope-Avril-Juin-1835_60594
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Paris and the Parisians in 1835. French
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '46694'
     url: http://www.gutenberg.org/2009/agents/46694
     wikipedia: https://fr.wikipedia.org/wiki/Jacques_Boulenger
+covers:
+- cover_type: archival
+  image_path: 60594-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Trollope, Frances Milton
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3479
     wikipedia: http://en.wikipedia.org/wiki/Frances_Trollope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60594#Paris-romantique-Voyage-en-France-de-Mrs-Trollope-Avril-Juin-1835
 gutenberg_issued: '2019-10-30'
 gutenberg_type: Text
 identifiers:
